@@ -78,3 +78,6 @@ The application recommends the top 5 most similar movies based on the selected m
 - Release Year
 - Movie Overview
 - Genre Filters
+
+## Author
+Hrucha Patil — [GitHub](https://github.com/PatilHrucha)
