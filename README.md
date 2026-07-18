@@ -68,7 +68,7 @@ streamlit run app.py
 ```
 
 ## Output
-
+![App Screenshot](screenshot.png)
 The application recommends the top 5 most similar movies based on the selected movie.
 
 ## Future Improvements
